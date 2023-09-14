@@ -30,6 +30,7 @@ Sentiment analysis was chosen as the primary method for this research project du
 This approach aligns with both research questions:
 
 RQ1: We analyzed sentiment scores to track emotional shifts in Trump and Clinton's tweets.
+
 RQ2: We explored the correlation between sentiment scores and tweet popularity (likes) to assess how sentiments relate to audience engagement.
 
 Sentiment analysis enabled a comprehensive examination of sentiment trends and their relationship with tweet popularity. Notably, we found no correlation between sentiment and popularity in the dataset.
